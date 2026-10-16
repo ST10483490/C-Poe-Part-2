@@ -9,7 +9,7 @@ namespace ChatBotGUI
     public static class AudioPlayer
     {
         [SupportedOSPlatform("windows")]
-        public static void PlayGreeting(string audioPath)
+        public static void PlayGreeting(string audioPath) 
         {
             try
             {
