@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ChatBotGUI.Main.resources
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ChatBotGUI.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ChatBotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ChatBotGUI.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ChatBotGUI.AssemblyInfo.cs
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ChatBotGUI.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\bin\Debug\net8.0-windows\ChatBotGUI.exe
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\bin\Debug\net8.0-windows\ChatBotGUI.deps.json
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\bin\Debug\net8.0-windows\ChatBotGUI.runtimeconfig.json
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\bin\Debug\net8.0-windows\ChatBotGUI.dll
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\bin\Debug\net8.0-windows\ChatBotGUI.pdb
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ChatBotGUI.dll
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\refint\ChatBotGUI.dll
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ChatBotGUI.pdb
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ChatBotGUI.genruntimeconfig.cache
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\obj\Debug\net8.0-windows\ref\ChatBotGUI.dll
+C:\Users\Student\source\repos\ChatBotGUI\ChatBotGUI\bin\Debug\net8.0-windows\AudioPlayer.cs
